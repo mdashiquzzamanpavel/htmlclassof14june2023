@@ -2,4 +2,5 @@
 basic html practices from w3schools for class of 14 june 2023
 
 for review:
+https://mdashiquzzamanpavel.github.io/htmlclassof14june2023/
 
