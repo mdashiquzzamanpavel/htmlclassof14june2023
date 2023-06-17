@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>14 june class</title>
+
+	</head>
+	<body >
+		<h1 style="background-color: darkred;color: white;">this is heading 1</h1>
+		<h2>this is heading 2</h2>
+		<h3 style="background-color: grey; color: white ;" >this is heading 3</h3>
+		<h4>this is heading 4</h4>
+		<h5>this is heading 5</h5>
+		<h6>this is heading 6</h6>
+
+		<!--this is a paragraph wrote with the tags from w3shools-->
+
+		<p>standard dummy <b> since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived </b>text<strong>when an unknown printer took a galley of type and scrambled</strong> ever since<i>when an unknown printer took a galley of type and scrambled</i> the 1500s, <em>when an unknown printer took a galley of type and scrambled</em> when <mark>when an unknown printer took a galley of type and scrambled</mark> an unknown printer<small>when an unknown printer took a galley of type and scrambled</small> took a galley <del>when an unknown printer took a galley of type and scrambled</del> of type <ins>when an unknown printer took a galley of type and scrambled</ins> and scrambled  it to <sub>when an unknown printer took a galley of type and scrambled</sub> make <sup>when an unknown printer took a galley of type and scrambled</sup> a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with <q>when an unknown printer took a galley of type and scrambled</q>  desktop publishing <abbr title="mdashiquzzamanpavel" >mas</abbr> software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+		<!--this is a paragraph wrote with the tags from w3shools-->
+
+
+		<!--this is address tag-->
+
+		<address>
+			panir tank mor<br>
+			agargaon<br>
+			Dhaka-1207
+		</address>
+
+		<!--this is address tag-->
+
+
+		<!--this is the tag to add link-->
+
+		<a target="_blank" href="https://web.facebook.com/ashiquzzamanpavel.md/" >my facebook id</a> <br>
+		<a target="_self" href="https://web.facebook.com/ashiquzzamanpavel.md/" >my facebook id</a> <br>
+
+		<!--this is the tag to add link-->
+
+		<hr>
+
+		<!--this is image tag-->
+
+		<img src="img/panda1.png" alt="panda1" style="width: 150px;height: 150px;">
+
+		<!--this is image tag-->
+
+	</body>
+</html>
